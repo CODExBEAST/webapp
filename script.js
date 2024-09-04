@@ -1,5 +1,5 @@
 const API_KEY = "6fcaefc3-e552-4374-a83c-2f0ce150945c"
-const url = "https://newsapi.ai/?referral=e5d426b6a1d64c3583c1f7f3c054e5c5"
+const url = "https://newsapi.ai/?referral="
 
 
 
